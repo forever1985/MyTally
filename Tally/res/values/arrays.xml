@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cost_types">
+        <item >@string/cost_restaurant</item>
+        <item >@string/cost_shopping</item>
+        <item >@string/cost_transport</item>
+        <item >@string/cost_entertainment</item>
+        <item >@string/cost_home</item>
+        <item >@string/cost_medicine</item>
+        <item >@string/cost_study</item>
+        <item >@string/cost_gifts</item>
+        <item >@string/cost_investment</item>
+        <item >@string/cost_other</item>
+    </string-array>
+    <string-array name = "income_types">
+        <item >@string/income_wage</item>
+        <item >@string/income_sales</item>
+        <item >@string/income_bonus</item>
+        <item >@string/income_stock</item>
+        <item >@string/income_report</item>
+        <item >@string/income_other</item>
+    </string-array>
+    <string-array name = "types">
+        <item >@string/income_types</item>
+        <item >@string/cost_types</item>
+        <item >@string/types_other</item>
+    </string-array>
+</resources>

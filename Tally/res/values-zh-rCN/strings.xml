@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"微账"</string>
+    <!-- cost types -->
+    <string name="cost_types">"支出"</string>
+    <string name="cost_restaurant">"餐饮"</string>
+    <string name="cost_shopping">"购物"</string>
+    <string name="cost_transport">"交通"</string>
+    <string name="cost_entertainment">"娱乐"</string>
+    <string name="cost_home">"居家"</string>
+    <string name="cost_medicine">"医药"</string>
+    <string name="cost_study">"学习"</string>
+    <string name="cost_gifts">"人情"</string>
+    <string name="cost_investment">"投资"</string>
+    <string name="cost_other">"其他"</string>
+    <!-- income types -->
+    <string name="income_types">"收入"</string>
+    <string name="income_wage">"工资"</string>
+    <string name="income_sales">"营业额"</string>
+    <string name="income_bonus">"奖金"</string>
+    <string name="income_stock">"股票"</string>
+    <string name="income_report">"报账"</string>
+    <string name="income_other">"其他"</string>
+    <!-- other string -->
+    <string name="add">"添加"</string>
+    <string name="ok">"确定"</string>
+    <string name="no">"取消"</string>
+    <string name="types_other">"其他"</string>
+    <string name="default_user">"默认用户"</string>
+    <string name="money_text">"&#165;&#032;<xliff:g id="number">%1s</xliff:g>"</string>
+</resources>
